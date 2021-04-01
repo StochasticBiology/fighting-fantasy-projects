@@ -1,0 +1,81 @@
+talisman of death,creature of havoc,slaves of abyss,island of undead,knights of doom
+house of hell,freeway fighter,creature of havoc,vault of vampire,dead of night
+house of hell,deathtrap dungeon,creature of havoc,forest of doom,night of necromancer
+creature of havoc,city of thieves,legend of zagor,knights of doom,robot commando
+moonrunner,spellbreaker,knights of doom,island of lizard king,sword of samurai
+moonrunner,legend of shadow warriors,dead of night,creature of havoc,siege of sardath
+dead of night,house of hell,creature of havoc,howl of werewolf,spellbreaker
+citadel of chaos,city of thieves,deathtrap dungeon,seas of blood,island of lizard king
+vault of vampire,robot commando,midnight rogue,dead of night,freeway fighter
+house of hell,talisman of death,vault of vampire,creature of havoc,island of lizard king
+vault of vampire,moonrunner,dead of night,beneath nightmare castle,spellbreaker
+scorpion swamp,freeway fighter,midnight rogue,talisman of death,seas of blood
+trial of champions,appointment with fear,talisman of death,vault of vampire,midnight rogue
+creature of havoc,howl of werewolf,khare cityport of traps,moonrunner,deathtrap dungeon
+legend of shadow warriors,dead of night,moonrunner,talisman of death,deathtrap dungeon
+midnight rogue,house of hell,howl of werewolf,moonrunner,vault of vampire
+creature of havoc,robot commando,trial of champions,crown of kings,midnight rogue
+sword of samurai,city of thieves,creature of havoc,seas of blood,phantoms of fear
+deathtrap dungeon,citadel of chaos,appointment with fear,trial of champions,seven serpents
+siege of sardath,tower of destruction,spellbreaker,house of hell,master of chaos
+warlock of firetop mountain,appointment with fear,citadel of chaos,house of hell,freeway fighter
+city of thieves,deathtrap dungeon,forest of doom,house of hell,talisman of death
+crown of kings,seven serpents,khare cityport of traps,city of thieves,night of necromancer
+battleblade warrior,dead of night,city of thieves,keep of lich lord,spellbreaker
+crown of kings,deathtrap dungeon,house of hell,appointment with fear,portal of evil
+trial of champions,midnight rogue,talisman of death,beneath nightmare castle,robot commando
+house of hell,midnight rogue,creature of havoc,vault of vampire,deathtrap dungeon
+rings of kether,forest of doom,deathtrap dungeon,scorpion swamp,house of hell
+creature of havoc,dead of night,city of thieves,khare cityport of traps,crown of kings
+creature of havoc,city of thieves,vault of vampire,slaves of abyss,temple of terror
+vault of vampire,howl of werewolf,house of hell,dead of night,city of thieves
+moonrunner,beneath nightmare castle,creature of havoc,vault of vampire,howl of werewolf
+night dragon,creature of havoc,dead of night,citadel of chaos,legend of shadow warriors
+deathtrap dungeon,warlock of firetop mountain,citadel of chaos,shamutanti hills,talisman of death
+deathtrap dungeon,warlock of firetop mountain,citadel of chaos,city of thieves,house of hell
+house of hell,city of thieves,creature of havoc,forest of doom,talisman of death
+city of thieves,house of hell,creature of havoc,scorpion swamp,sky lord
+sword of samurai,howl of werewolf,rebel planet,seven serpents,appointment with fear
+talisman of death,house of hell,deathtrap dungeon,city of thieves,caverns of snow witch
+sky lord,masks of mayhem,blood of zombies,port of peril,forest of doom
+dead of night,legend of shadow warriors,moonrunner,house of hell,warlock of firetop mountain
+midnight rogue,robot commando,citadel of chaos,star strider,appointment with fear
+citadel of chaos,forest of doom,eye of dragon,stormslayer,shamutanti hills
+howl of werewolf,creature of havoc,moonrunner,slaves of abyss,siege of sardath
+howl of werewolf,dead of night,shamutanti hills,talisman of death,seas of blood
+moonrunner,house of hell,creature of havoc,deathtrap dungeon,city of thieves
+dead of night,vault of vampire,legend of zagor,island of lizard king,robot commando
+scorpion swamp,dead of night,deathtrap dungeon,night dragon,khare cityport of traps
+deathtrap dungeon,house of hell,moonrunner,howl of werewolf,city of thieves
+phantoms of fear,house of hell,armies of death,caverns of snow witch,dead of night
+moonrunner,dead of night,deathtrap dungeon,house of hell,howl of werewolf
+forest of doom,house of hell,island of lizard king,bloodbones,deathtrap dungeon
+citadel of chaos,temple of terror,dead of night,deathtrap dungeon,creature of havoc
+creature of havoc,crimson tide,dead of night,siege of sardath,warlock of firetop mountain
+appointment with fear,deathtrap dungeon,talisman of death,sword of samurai,caverns of snow witch
+crown of kings,vault of vampire,island of undead,seven serpents,caverns of snow witch
+talisman of death,seven serpents,temple of terror,sword of samurai,house of hell
+legend of shadow warriors,legend of zagor,night dragon,night of necromancer,howl of werewolf
+citadel of chaos,khare cityport of traps,robot commando,creature of havoc,crown of kings
+crown of kings,khare cityport of traps,creature of havoc,black vein prophecy,crimson tide
+creature of havoc,city of thieves,khare cityport of traps,deathtrap dungeon,assassins of allansia
+warlock of firetop mountain,deathtrap dungeon,howl of werewolf,city of thieves,forest of doom
+legend of shadow warriors,magehunter,moonrunner,creature of havoc,khare cityport of traps
+house of hell,forest of doom,scorpion swamp,talisman of death,demons of deep
+citadel of chaos,city of thieves,caverns of snow witch,beneath nightmare castle,scorpion swamp
+rebel planet,beneath nightmare castle,demons of deep,vault of vampire,creature of havoc
+citadel of chaos,deathtrap dungeon,city of thieves,forest of doom,house of hell
+portal of evil,keep of lich lord,master of chaos,dead of night,trial of champions
+deathtrap dungeon,talisman of death,appointment with fear,rebel planet,seven serpents
+legend of shadow warriors,city of thieves,creature of havoc,house of hell,space assassin
+shamutanti hills,khare cityport of traps,seven serpents,crown of kings,house of hell
+spectral stalkers,moonrunner,dead of night,keep of lich lord,shamutanti hills
+city of thieves,scorpion swamp,island of lizard king,house of hell,space assassin
+deathtrap dungeon,warlock of firetop mountain,citadel of chaos,house of hell,creature of havoc
+howl of werewolf,moonrunner,creature of havoc,legend of zagor,night of necromancer
+creature of havoc,deathtrap dungeon,trial of champions,freeway fighter,crown of kings
+talisman of death,deathtrap dungeon,forest of doom,warlock of firetop mountain,caverns of snow witch
+siege of sardath,creature of havoc,crimson tide,citadel of chaos,slaves of abyss
+legend of shadow warriors,house of hell,dead of night,tower of destruction,moonrunner
+legend of zagor,house of hell,deathtrap dungeon,legend of shadow warriors,robot commando
+khare cityport of traps,forest of doom,city of thieves,seas of blood,sword of samurai

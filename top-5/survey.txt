@@ -1,0 +1,81 @@
+Talisman of Death,Creature of Havoc,Slaves of the Abyss,Island of the Undead,Knights of Doom
+House of Hell,Freeway Fighter,Creature of Havoc,Vault of the Vampire,Dead of Night
+House of Hell,Deathtrap Dungeon,Creature of Havoc,Forest of Doom,Night of the Necromancer
+Creature of Havoc,City of Thieves,Legend of Zagor,Knights of Doom,Robot Commando
+Moonrunner,Spellbreaker,Knights of Doom,Island of the Lizard King,Sword of the Samurai
+Moonrunner,Legend of the Shadow Warriors,Dead of Night,Creature of Havoc,Siege of Sardath
+Dead Of Night,House Of Hell,Creature Of Havoc,Howl Of The Werewolf,Spellbreaker
+Citadel of Chaos,City of Thieves,Deathtrap Dungeon,Seas of Blood,Island of the Lizard King
+Vault of the Vampire,Robot Commando,Midnight Rogue,Dead of Night,Freeway Fighter
+House of Hell,Talisman of Death,Vault of the Vampire,Creature of Havoc,Island of the Lizard King
+Vault of the Vampire,Moonrunner,Dead of Night,Beneath Nightmare Castle,Spellbreaker
+Scorpion Swamp,Freeway Fighter,Midnight Rogue,Talisman of Death,Seas of Blood
+Trial of champions,appointment with f.e.a.r,talisman of death,vault of the vampire,midnight rogue
+Creature of Havoc,Howl of the Werewolf,Khare Cityport of Traps,Moonrunner,Deathrap Dungeon
+Legend of the Shadow Warriors,Dead of Night,Moonrunner,Talisman of Death,Deathtrap Dungeon.
+Midnight rogue,House of Hell,Howl of the werewolf,Moonrunner,Vault of the vampire
+Creature of Havoc,Robot Commando,Trial of the Champions,The Crown of Kings,Midnight Rouge
+Sword of the Samurai,City of thieves,Creature of Havoc,Seas of blood,Phantasms of fear
+Deathtrap Dungeon,Citadel of Chaos,Appointment with F.E.A.R,Trial of Champions,The Seven Serpents
+Siege of Sardath,Tower of Destruction,Spellbreaker,House of Hell,Master of Chaos
+The Warlock of Firetop Mountain,Appointment with F.E.A.R.,Citadel of Chaos,House of Hell,Freeway Fighter
+city of thieves,deathtrap dungeon,forest of doom,house of hell,talisman of death
+The Crown of Kings,The Seven serpents,Kharé cityport of traps,City of thieves,Night of the Necromancer
+Battleblade Warrior,Dead of Night,City Thieves,Keep of the Lich Lord,Spellbreaker
+Crown of Kings,Deathtrap Dungeon,House of Hell,Appointment with FEAR,Portal of Evil
+Trial of Champions,Midnight Rogue,Talisman of Death,Beneath Nightmare Castle,Robot Commando
+House of Hell,Midnight Rogue,Creature of Havoc,Vault of the Vampire,Deathtrap Dungeon
+The Rings of Kether,Forest of Doom,Deathtrap Dungeon,Scorpion Swamp,House of Hell
+Creature of Havoc,Dead of Night,City of Thieves,Khare,Crown of Kings
+Creature of havoc,City of thieves,Vault of the vampire,Slaves of the abyss,Temple of terror
+Vault of the Vampire,Howl of the Werewolf,House of Hell,Dead of Night,City of Thieves
+Moonrunner,Beneath Nightmare Castle,Creature of Havoc,Vault of the Vampire,Howl of the Werewolf
+Night Dragon,Creature of Havoc,Dead of Night,Citadel of Chaos,Legend of the Shadow Warriors
+Deathtrap Dungeon,Warlock of Firetop Mountain,Citadel of Chaos,The Shamutanti Hills,Talisman of Death
+Deathtrap Dungeon,Warlock of Firetop Mountain,Citadel of Chaos,City of Thieves,House of Hell
+House of Hell,City of thieves,Creature of Havoc,Forest of Doom,Talisman of Death
+City of Thieves,House of Hell,Creature of Havoc,Scorpion Swamp,Sky Lord
+Sword of the Samurai,Howl of the Werewolf,Rebel Planet,The Seven Serpents,Appointment with FEAR
+Talisman of Death,House of Hell,Deathtrap Dungeon,City of Thieves,Caverns of the Snow Witch
+Sky Lord,Masks of Mayhem,Blood of the Zombies,Port of Peril,Forest of Doom
+Dead of Night,Legend of the Shadow Warriors,Moonrunner,House of Hell,Warlock of Firetop Mountain
+Midnight Rogue,Robot Commando,Citadel of Chaos,Star Strider,Appointment with F.E.A.R
+Citadel of Chaos,Forest of Doom,Eye of the Dragon,Stormslayer,Shamutanti Hills
+Howl of the Werewolf,Creature of Havoc,Moonrunner,Slaves of the Abyss,Siege of Sardath
+Howl of the Werewolf,Dead of Night,Shamutanti Hills,Talisman of Death,Seas of Blood
+Moonrunner,House Of Hell,Creature Of Havoc,Deathtrap Dungeon,City of Thieves
+Dead of Night,Vault of the Vampire,Legend of Zagor,Island of the Lizard King,Robot Commando
+Scorpion Swamp,Dead of Night,Deathtrap Dungeon,Night Dragon,Kharé - Cityport of Traps
+Deathtrap Dungeon,House of Hell,Moonrunner,Howl of the Werewolf,City of Thieves
+Phantoms of Fear,House of Hell,Armies of Death,Caverns of the Snow Witch,Dead of Night
+Moonrunner,Dead of Night,Deathtrap Dungeon,House of Hell,Howl of the Werewolf
+The forest of Doom,House of Hell,Island of the lizard king,Bloodbones,Deathtrap Dungeon
+Citadel of Chaos,Temple of terror,Dead of night,Deathtrap Dungeon,Creature of Havoc
+Creature of Havoc,Crimson Tide,Dead of Night,Siege of Sardath,The Warlock of Firetop Mountain
+Appointment with F.E.A.R.,Deathtrap Dungeon,Talisman of Death,Sword of the Samurai,Caverns of the Snow Witch
+Crown of Kings,Vault of the vampire,Island of the Undead,Seven serpents,Caverns of the snow witch
+Talisman of Death,Seven Serpents,Temple of Terror,Sword of the Samurai,House of Hell
+Legend of the Shadow Warriors,Legend of Zagor,Night Dragon,Night of Necromancer,Howl of the Werewolf
+Citadel of Chaos,Khare Cityport of Traps,Robot Commando,Creature of Havoc,Crown of Kings
+Crown of Kings,Khare,Creature of Havoc,Black Vein Prophecy,The Crimson Tide
+Creature of Havoc,City of Thieves,Khare Cityport of Traps,Deathtrap Dungeon,Assassins of Allansia
+Warlock of firetop mountain,Deathtrap Dungeon,Howl of the Werewolf,City of Thieves,Forest of Doom
+Legend of the Shadow Warriors,Magehunter,Moonrunner,Creature of Havoc,Khare: Cityport of Traps
+House of Hell,Forest of Doom,Scorpion Swamp,Talisman of Death,Demons of the Deep
+Citadel of Chaos,City of Thieves,Caverns of the Snow Witch,Beneath Nightmare Castle,Scorpion Swamp
+Rebel Planet,Beneath Nightmare Castle,Demons of the Deep,Vault of the Vampire,Creature of Havoc
+Citadel of Chaos,Deathtrap Dungeon,City of Thieves,Forest of Doom,House of Hell
+Portal of Evil,Keep of the Lich Lord,Master of Chaos,Dead of Night,Trial of Champions
+Deathtrap Dungeon,Talisman of Death,Appointment with F.E.A.R.,Rebel Plant,The Seven Serpents
+Legend of the Shadow Warriors,City of Thieves,Creature of Havoc,House of Hell,Space Assassin
+The Shamutanti Hills,Khare Cityport of Traps,The Seven Serpents,Crown of Kings,House of Hell
+Spectral Stalkers,Moonrunner,Dead of Night,The Keep of the Lich Lord,The Shamutanti Hills
+City of Thieves,Scorpion Swamp,Island of the Lizard King,House of Hell,Space Assassin
+Deathtrap Dungeon,Warlock of Firetop Mountain,Citadel of Chaos,House of Hell,Creature of Havoc
+Howl of the Werewolf,Moonrunner,Creature of Havoc,Legend of Zagor,Night of the Necromancer
+Creature of havoc,Deathtrap dungeon,trial of champions,Freeway fighter,Crown of kings
+Talisman of Death,Deathtrap Dungeon,Forest of Doom,Warlock of Firetop Mountain,Caverns of the Snow Witch
+Siege of Sardath,Creature of Havoc,The Crimson Tide,Citadel of Chaos,Slaves of the Abyss
+Legend of the shadow warriors,House of Hell,Dead of Night,Tower of Destruction,Moonrunner
+Legend of Zagor,House of Hell,Deathtrap Dungeon,Legend of the Shadow Warriors,Robot Commando
+Kharé Cityport of Traps,The Forest of Doom,City of Thieves,Seas of Blood,Sword of the Samurai
