@@ -13,11 +13,11 @@ Source data is a summary of the excellent calculations and solutions by user "ch
 
 wofm-solution/
 --------------
-`wofm.c` is a simulation of a putative optimal solution (and some others) of The Warlock of Firetop Mountain with minimum stats. This is a WIP and may contain bugs (it gives a different output to others!)
+`wofm.c` is a simulation of a putative optimal solution (and some others) of The Warlock of Firetop Mountain with minimum stats. This is a WIP and may contain bugs (it gives a different output to others!). `wofm-luck.c` is a very slight tweak exploring the effect of using (and not using) Luck in battles.
 
 cots-solution/
 --------------
-`crypt.c` is a simulation of a putative optimal solution of Crypt of the Sorcerer. This is a WIP and may contain bugs (it gives a different output to others!)
+`crypt.c` is a simulation of a putative optimal solution of Crypt of the Sorcerer. This is a WIP and may contain bugs (it gives a different output to others!). `cheat.c` is the same simulation with two possible cheats regarding Skill modifiers.
 
 top-5/
 ------
