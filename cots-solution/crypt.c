@@ -279,8 +279,8 @@ int main(void)
       dstage = -1;
       // initialise hero stats
       Hero.i_skill = Hero.skill = 12; 
-      Hero.i_stamina = Hero.stamina = 14; 
-      Hero.i_luck = Hero.luck = 7; 
+      Hero.i_stamina = Hero.stamina = 24; 
+      Hero.i_luck = Hero.luck = 12; 
       Hero.food = 5; 
       Hero.died = 0;
       Hero.potion = 0;
@@ -367,7 +367,7 @@ int main(void)
       dSkill(&Hero, 1);
       dLuck(&Hero, 1);
       // 29-205-299 (clay golem)
-      F.golem = 1; F.useluck = 1;
+      F.golem = 1; F.useluck = 0;
       Combat(&Hero, 8, 9, F);
       F.golem = 0; F.useluck = 0;
       Output(Hero, 8, &dstage);
@@ -530,7 +530,7 @@ int main(void)
       Heal(&Hero);
  
       // 74 (tag 283)-199-26-[283]-189-364-[35]-[119]-[5]-[108]-[184]-276-326-351-[66]-271 (razaak)
-      F.razaak = 1;  F.useluck = 1;
+      F.razaak = 1;  F.useluck = 12;
       Combat(&Hero, 12, 20, F);
       Output(Hero, 26, &dstage);
       Heal(&Hero);

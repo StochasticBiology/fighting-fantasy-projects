@@ -8,9 +8,9 @@
 #define VERBOSE 0                // outputs player status throughout
 #define VERBOSE_COMBAT 0         // outputs combat progress
 
-#define AS_BONUS 0
+#define AS_BONUS 1
 #define SKILL_BUFFER 0
-#define LUCK_POTION 1
+#define LUCK_POTION 0
 
 // random number call
 #define RND drand48()
@@ -267,6 +267,10 @@ int main(void)
   int dstage;
   char stagenames[NSTAGE*LEN];
   int r;
+  int rhist[13];
+
+  for(i = 0; i < 13; i++)
+    rhist[i] = 0;
   
   // populate list of stage names so we can see where we die
   sprintf(&stagenames[LEN*0], "flies");
@@ -401,7 +405,7 @@ int main(void)
       dSkill(&Hero, 1);
       dLuck(&Hero, 1);
       // 29-205-299 (clay golem)
-      F.golem = 1; F.useluck = 1;
+      F.golem = 1; F.useluck = 0;
       Combat(&Hero, 8, 9, F);
       F.golem = 0; F.useluck = 0;
       Output(Hero, 8, &dstage);
@@ -564,7 +568,9 @@ int main(void)
       Heal(&Hero);
  
       // 74 (tag 283)-199-26-[283]-189-364-[35]-[119]-[5]-[108]-[184]-276-326-351-[66]-271 (razaak)
-      F.razaak = 1;  F.useluck = 1;
+      F.razaak = 1;  F.useluck = 12;
+      if(dstage == -1)
+	rhist[Hero.luck]++;
       Combat(&Hero, 12, 20, F);
       Output(Hero, 26, &dstage);
       Heal(&Hero);
@@ -599,6 +605,12 @@ int main(void)
 	  printf("Stage %i (%s): %.2f%% simulations died (%.2f%% of those that made it here)\n", i, &stagenames[i*LEN], (double)deadhist[i]/NSIM*100., (double)deadhist[i]/deadtilnow*100);
 	}
       deadtilnow -= deadhist[i];
+    }
+
+  printf("Luck distribution at Razaak:\n");
+  for(i = 0; i <= 12; i++)
+    {
+      if(rhist[i]) printf("%i %i\n", i, rhist[i]);
     }
 
   return 0;
